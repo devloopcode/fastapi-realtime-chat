@@ -1,6 +1,6 @@
 # Real-Time Chat API
 
-A production-ready, horizontally scalable real-time chat backend built with **FastAPI**, **WebSockets**, **Redis pub/sub**, and **PostgreSQL**. Architected for use in Discord/Slack-style applications.
+A horizontally scalable real-time chat backend built with **FastAPI**, **WebSockets**, **Redis pub/sub**, and **PostgreSQL**. Architected for use in Discord/Slack-style applications.
 
 ---
 
